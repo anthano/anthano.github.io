@@ -1,3 +1,14 @@
+# Tips and tricks
+
+- `config/_default/menus.yaml`: Responsible for header listing
+    - weight is for the order
+- `content/_index.md`: Responsible for content
+    - blocks correspond to blocks on website. Can be commented out or deleted to remove
+    the respective entry on the website
+
+
+
+
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
 [![Screenshot](./preview.png)](https://hugoblox.com/templates/)
