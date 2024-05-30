@@ -6,10 +6,11 @@ html {
 :root {
     --green: #7da046;
     --blue: #307dd0;
+    --anojas-custom-cute-color: #db7093;
 }
 
 body {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Ojuju', sans-serif;
     font-size: 1.1rem;
     margin: 0;
     padding-top: 0.5rem; /* Space for the fixed navbar */
@@ -45,7 +46,7 @@ main {
 
 a {
     text-decoration: none;
-    color: var(--green);
+    color: var(--anojas-custom-cute-color);
     font-weight: 600;
 }
 
